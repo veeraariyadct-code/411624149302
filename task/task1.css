@@ -1,10 +1,11 @@
 video{
     
     width:50%;
+    background-color: blue;
 
 }
 .cls:hover{
-    background-color: blue;
+   background-color: blue;
     text-decoration-color: hsl(180, 100%, 97%);
     padding: auto;
     border: none;
@@ -69,9 +70,11 @@ gap:10px;
 
 margin-top:20px;
 
-}}
+}
+}
 #a,#b{
     padding: 10px;
     margin: 10px;
      border: none;
+      
 }
